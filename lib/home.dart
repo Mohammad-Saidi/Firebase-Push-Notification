@@ -8,6 +8,6 @@ class Print extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text('Mohammad SAidi');
+    return Text('Mohammad Saidi');
   }
 }
